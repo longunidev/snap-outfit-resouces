@@ -8,3 +8,8 @@ env/
 venv/
 ENV/
 *.log
+node_modules
+generate_outfit_excel.js
+outfits_catalog.xlsx
+package-lock.json
+package.json
